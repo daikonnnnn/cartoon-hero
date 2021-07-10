@@ -1,3 +1,4 @@
+/*for comments*/
 body{
 	margin:  0;
 	font-family:  Helvetica, Arial, sans-serif;
@@ -6,9 +7,9 @@ body{
 	font-size: 15px;
 	line-height: 30px;
 }
-
+/*header styles*/
 header{
-	background-color: hotpink;
+	background-color: palevioletred;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -16,7 +17,7 @@ header{
 
 header h1{
 	color:  whitesmoke;
-	font-size: 50px;
+	font-size: 30px;
 }
 
 header img{
@@ -65,7 +66,7 @@ footer a:hover{
 	opacity: 0.7;
 }
 p.caption{
-	color: greenyellow;
+	color: darkgrey;
 	font-style: italic;
 	margin-top: 0;
 
